@@ -1,20 +1,20 @@
 # Primeiro push
 
 
-*Criando Repositório:
+**Criando Repositório:**
 
 Efetuado login no [https://github.com] e criado um novo **repositório.**
 
 Repositório - **primeiro-push** , criado como **public.**
 
-*Criando Diretório:
+**Criando Diretório:**
 
 
 mkdir ~/git/primeiro_push
 
 cd ~/git/primeiro_push
 
-*Inicializando git e fazendo primeiro push:
+**Inicializando git e fazendo primeiro push:**
 
 
 **git init**
